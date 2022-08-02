@@ -10,6 +10,6 @@ public class FirstTest {
 
     @Test
     public void secondTest(){
-        Assert.assertNotEquals(10 / 2 , 7.0);
+        Assert.assertNotEquals(10 / 2 , 6);
     }
 }
