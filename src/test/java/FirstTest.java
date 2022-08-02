@@ -5,7 +5,7 @@ public class FirstTest {
 
     @Test
     public void firstTest(){
-        Assert.assertEquals(7, 14/2);
+        Assert.assertFalse(5 != 5);
     }
 
     @Test
